@@ -1,8 +1,8 @@
 ---
-description: Welcome to the deOracle wiki!
+description: Welcome to the deOracle.xyz documentation!
 ---
 
-# deOracle.xyz Docs (alpha)
+# 👋 Welcome to deOracle.xyz!
 
 ## Overview
 
