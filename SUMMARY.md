@@ -12,7 +12,9 @@
 
 ## Product Guides
 
-* [Page 1](product-guides/page-1.md)
+* [🌱 Create Request](product-guides/create-request.md)
+* [🌻 Answer Request](product-guides/answer-request.md)
+* [🏆 Build Reputation](product-guides/build-reputation.md)
 
 ## Use Cases
 
