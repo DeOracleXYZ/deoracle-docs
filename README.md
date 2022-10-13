@@ -1,5 +1,5 @@
 ---
-description: Welcome to the deOracle.xyz documentation!
+description: Welcome to the deOracle.xyz documentation! (draft 1)
 ---
 
 # 👋 Welcome to deOracle.xyz!
@@ -9,8 +9,6 @@ description: Welcome to the deOracle.xyz documentation!
 deOracle.xyz is a decentralised P2P oracle platform with a cross-chain reputation system for digital identities. Our goal is to bring reliable real-world data of any kind on-chain.
 
 deOracle is useful for Smart Contract and dApp developers who are looking for wide scope data feeds not supported by mainstream oracles. Use cases: prediction markets, betting, lotteries, raffles, etc.
-
-
 
 
 
