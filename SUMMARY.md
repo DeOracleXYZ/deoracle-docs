@@ -6,9 +6,10 @@
 
 ***
 
-* [✨ Features](features.md)
-* [🚀 Getting Started](getting-started.md)
 * [💡 What we do](what-we-do.md)
+* [✨ Features](features.md)
+* [🛣 Roadmap](roadmap.md)
+* [🚀 Getting Started](getting-started.md)
 
 ## Product Guides
 
@@ -19,8 +20,5 @@
 ## Use Cases
 
 * [👁🗨 Oracles](use-cases/oracles.md)
-
-***
-
-* [🇱🇦 DAOs](daos.md)
-* [🕸 Web 3 Protocols](web-3-protocols.md)
+* [🇱🇦 DAOs](use-cases/daos.md)
+* [🕸 Web 3 Protocols](use-cases/web-3-protocols.md)
