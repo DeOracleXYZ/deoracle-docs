@@ -8,3 +8,4 @@
 
 * [✨ Features](features.md)
 * [🚀 Getting Started](getting-started.md)
+* [💡 What we do](what-we-do.md)
