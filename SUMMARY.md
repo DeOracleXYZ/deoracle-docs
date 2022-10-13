@@ -4,8 +4,7 @@
 
 ## Overview
 
-* [Page 1](overview/page-1.md)
-
 ***
 
 * [✨ Features](features.md)
+* [🚀 Getting Started](getting-started.md)
