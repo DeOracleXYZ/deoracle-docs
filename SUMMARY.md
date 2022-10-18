@@ -4,18 +4,25 @@
 
 ## Overview
 
+* [❔ What is an Oracle?](overview/what-is-an-oracle.md)
+* [❗ The Problem w/ Existing Oracles](overview/the-problem-w-existing-oracles.md)
+* [👉 Our Solution](overview/our-solution.md)
+
+## Data Feeds
+
+* [✅ Subscribe to a Data Feed](data-feeds/subscribe-to-a-data-feed.md)
+* [📈 Create a New Data Feed](data-feeds/create-a-new-data-feed.md)
+* [📊 Create a One Time Request](data-feeds/create-a-one-time-request.md)
+
+## EARN AS AN ORACLE
+
 ***
 
-* [❔ What is an Oracle?](what-is-an-oracle.md)
-* [❗ The Problem w/ Existing Oracles](the-problem-w-existing-oracles.md)
-* [👉 Our Solution](our-solution.md)
-* [📊 Create a One Time Request](create-a-one-time-request.md)
-* [📈 Create a Data Feed](create-a-data-feed.md)
-* [✅ Subscribe to a data feed](subscribe-to-a-data-feed.md)
-* [💡 What we do](what-we-do.md)
-* [✨ Features](features.md)
+* [☑ Get Verified](get-verified.md)
+* [🔧 Maintain Data Feeds](maintain-data-feeds.md)
+* [📖 Answer Single Requests](answer-single-requests.md)
 * [🛣 Roadmap](roadmap.md)
-* [🚀 Getting Started](getting-started.md)
+* [🖥 The Tech](the-tech.md)
 
 ## Product Guides
 

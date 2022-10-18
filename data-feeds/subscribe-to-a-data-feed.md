@@ -1,4 +1,4 @@
-# ✅ Subscribe to a data feed
+# ✅ Subscribe to a Data Feed
 
 Smart Contract Developers can subscribe to DeOracle feeds to use our Solidity interfaces.  This is essentially an on-chain API for any data supported by DeOracle.  Pay for subscription calls with DEO or by staking DEO.
 
