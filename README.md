@@ -14,55 +14,7 @@ DeOracle is useful for Smart Contract / Dapp developers who are looking for wide
 
 
 
-## Explore Documentation
-
-### Overview
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="roadmap.md" %}
-[roadmap.md](roadmap.md)
-{% endcontent-ref %}
-
-{% content-ref url="getting-started.md" %}
-[getting-started.md](getting-started.md)
-{% endcontent-ref %}
 
 
 
-### Product Guides
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-
-
-### Use Cases
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
