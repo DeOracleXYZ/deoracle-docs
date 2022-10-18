@@ -1,14 +1,15 @@
 ---
-description: Welcome to the deOracle.xyz documentation! (draft 1)
+description: Welcome to the DeOracle.xyz documentation!
+coverY: 0
 ---
 
-# 👋 Welcome to deOracle.xyz!
+# 👋 Welcome to DeOracle.xyz!
 
 ## Overview
 
-deOracle.xyz is a decentralised P2P oracle platform with a cross-chain reputation system for digital identities. Our goal is to bring reliable real-world data of any kind on-chain.
+DeOracle is a decentralized oracle network for subjective data feeds.  DeOracle brings real-world data on-chain and verifies its reliability with DeOracle REP (reputation system).
 
-deOracle is useful for Smart Contract and dApp developers who are looking for wide scope data feeds not supported by mainstream oracles. Use cases: prediction markets, betting, lotteries, raffles, etc.
+DeOracle is useful for Smart Contract / Dapp developers who are looking for wide scope data feeds not supported by mainstream oracles.  Some use cases: prediction markets, betting, lotteries, raffles, insurance protocols, etc.
 
 
 
