@@ -7,10 +7,10 @@
 ***
 
 * [❔ What is an Oracle?](what-is-an-oracle.md)
-* [❗ The Problem](the-problem.md)
+* [❗ The Problem w/ Existing Oracles](the-problem-w-existing-oracles.md)
 * [👉 Our Solution](our-solution.md)
-* [Page 1](page-1.md)
-* [📊 Create a Data Feed](create-a-data-feed.md)
+* [📊 Create a One Time Request](create-a-one-time-request.md)
+* [📈 Create a Data Feed](create-a-data-feed.md)
 * [💡 What we do](what-we-do.md)
 * [✨ Features](features.md)
 * [🛣 Roadmap](roadmap.md)

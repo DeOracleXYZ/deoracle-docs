@@ -1,12 +1,10 @@
 # 👉 Our Solution
 
-### DeOracle fills the gaps with subjective data feeds. &#x20;
-
-### DYNAMIC, PERMISIONLESS, and RELIABLE data feeds.
+### DeOracle solves this with DYNAMIC, PERMISIONLESS, and RELIABLE data feeds.
 
 ### DYNAMIC
 
-Anyone can submit a request for a data feed.
+Subscribe to existing data feeds or create a new data feed!  Maintain that data feed yourself or open it up to other oracles on our network.
 
 ### PERMISIONLESS
 

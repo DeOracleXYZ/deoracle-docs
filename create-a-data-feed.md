@@ -1,5 +1,12 @@
-# 📊 Create a Data Feed
+# 📈 Create a Data Feed
 
-#### POST REQUESTS (ANY DATA)
+#### Propose a new data feed
 
-Post request to oracles with description, bounty (USDC), min. required reputation (RP) and due date. Requester accepts a valid answer to release the bounty to said oracle's wallet address. Request and answer data is brought on-chain for use in smart contracts.
+Submit a new data feed with description, data type (integer, string, boolean), pricing, REP requirements, collateral requirements to answer, starting values, active/inactive status.
+
+Oracles can provide answers to your data feed if they meet the REP requirement and provide collateral incase their data is disputed.
+
+Smart Contract Developers can subscribe to new DeOracle feeds.
+
+Subscription proceeds are shared amongst participating oracles, token holders and the protocol.
+
