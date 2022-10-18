@@ -17,12 +17,12 @@ DeOracle is useful for Smart Contract / Dapp developers who are looking for wide
 
 ### Overview
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="what-we-do.md" %}
+[what-we-do.md](what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="features.md" %}
+[features.md](features.md)
 {% endcontent-ref %}
 
 {% content-ref url="roadmap.md" %}
