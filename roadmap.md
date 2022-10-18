@@ -1,16 +1,34 @@
 # 🛣 Roadmap
 
-### Phase 1
+### Q4 2022&#x20;
 
-* Stability improvements and bug fixes
-* Error handling with UI messages
-* Utility token & staking
-* Launch on Polygon and Optimism Mainnet
+* [ ] Finish Encode Accelerator Program
+* [ ] Fundraise Pre-seed
+* [ ] Build Community
+* [ ] Type formatted data feeds
+* [ ] Subjective Data Feeds API
 
-### Phase 2
+### Q1 2023&#x20;
 
-* Decentralised governance via deOracle DAO
-* Distribute soul-bound NFTs for on-chain identity
-* Implement type formatted answers (number, boolean, multiple choice, etc.)
-* deOracle Dev API
-* Launch on Ethereum and Arbitrum Mainnet
+* [ ] Reputation System with Soul-bound Tokens $DEO Utility Token
+* [ ] DAO, staking and dispute resolution
+* [ ] Partnerships, oracle and user onboardings.
+* [ ] Dev and Community manager hires
+
+### Q2 2023
+
+* [ ] Closed beta testing
+* [ ] Refine REP system and dispute resolution
+* [ ] Refine subjective data feeds
+* [ ] PR & Marketing Prep
+
+
+
+### Q3 2023
+
+* [ ] Community Events, Partnerships
+* [ ] Open beta testing
+* [ ] PR & Marketing Partnerships
+* [ ] Mainnet Launch
+
+&#x20; &#x20;
