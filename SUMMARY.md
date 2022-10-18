@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to deOracle.xyz!](README.md)
+* [👋 Welcome to DeOracle.xyz!](README.md)
 
 ## Overview
 
