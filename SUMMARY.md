@@ -11,6 +11,7 @@
 * [👉 Our Solution](our-solution.md)
 * [📊 Create a One Time Request](create-a-one-time-request.md)
 * [📈 Create a Data Feed](create-a-data-feed.md)
+* [✅ Subscribe to a data feed](subscribe-to-a-data-feed.md)
 * [💡 What we do](what-we-do.md)
 * [✨ Features](features.md)
 * [🛣 Roadmap](roadmap.md)
