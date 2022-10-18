@@ -16,25 +16,14 @@
 
 ## EARN AS AN ORACLE
 
-***
+* [☑ Get Verified](earn-as-an-oracle/get-verified.md)
+* [🔧 Maintain Data Feeds](earn-as-an-oracle/maintain-data-feeds.md)
+* [📖 Answer Single Requests](earn-as-an-oracle/answer-single-requests.md)
 
-* [☑ Get Verified](get-verified.md)
-* [🔧 Maintain Data Feeds](maintain-data-feeds.md)
-* [📖 Answer Single Requests](answer-single-requests.md)
-
-## Product Guides
-
-* [🌱 Create Request](product-guides/create-request.md)
-* [🌻 Answer Request](product-guides/answer-request.md)
-* [🏆 Build Reputation](product-guides/build-reputation.md)
+## INFO
 
 ***
 
+* [⚽ The Team](the-team.md)
 * [🛣 Roadmap](roadmap.md)
 * [🖥 The Tech](getting-started.md)
-
-## Use Cases
-
-* [👁🗨 Oracles](use-cases/oracles.md)
-* [🇱🇦 DAOs](use-cases/daos.md)
-* [🕸 Web 3 Protocols](use-cases/web-3-protocols.md)

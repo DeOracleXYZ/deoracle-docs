@@ -17,12 +17,12 @@ DeOracle is useful for Smart Contract / Dapp developers who are looking for wide
 
 ### Overview
 
-{% content-ref url="what-we-do.md" %}
-[what-we-do.md](what-we-do.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="features.md" %}
-[features.md](features.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="roadmap.md" %}
@@ -37,31 +37,31 @@ DeOracle is useful for Smart Contract / Dapp developers who are looking for wide
 
 ### Product Guides
 
-{% content-ref url="product-guides/create-request.md" %}
-[create-request.md](product-guides/create-request.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="product-guides/answer-request.md" %}
-[answer-request.md](product-guides/answer-request.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="product-guides/build-reputation.md" %}
-[build-reputation.md](product-guides/build-reputation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 
 
 ### Use Cases
 
-{% content-ref url="use-cases/oracles.md" %}
-[oracles.md](use-cases/oracles.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases/daos.md" %}
-[daos.md](use-cases/daos.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases/web-3-protocols.md" %}
-[web-3-protocols.md](use-cases/web-3-protocols.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
