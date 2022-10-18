@@ -1,6 +1,6 @@
 ---
 description: Welcome to the DeOracle documentation!
-cover: .gitbook/assets/deOracle@2x (2).png
+cover: .gitbook/assets/deOracle@2x (1).png
 coverY: 959.2090628218331
 ---
 
@@ -14,7 +14,16 @@ DeOracle is useful for Smart Contract / Dapp developers who are looking for wide
 
 
 
+## Explore
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
