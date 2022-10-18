@@ -1,7 +1,7 @@
 ---
 description: Welcome to the DeOracle documentation!
 cover: .gitbook/assets/deOracle@3x.png
-coverY: 2443.6992790937175
+coverY: 2744.4037075180227
 ---
 
 # 👋 Welcome to DeOracle.xyz!
