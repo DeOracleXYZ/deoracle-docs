@@ -6,6 +6,9 @@
 
 ***
 
+* [❔ What is an Oracle?](what-is-an-oracle.md)
+* [❗ The Problem](the-problem.md)
+* [👉 Our Solution](our-solution.md)
 * [💡 What we do](what-we-do.md)
 * [✨ Features](features.md)
 * [🛣 Roadmap](roadmap.md)
